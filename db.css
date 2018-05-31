@@ -1,0 +1,92 @@
+/*
+
+CREATED BY GUIDO FRANCIS
+COPYRIGHT 2018, KAHOOT SMASHER, ALL RIGHTS RESERVED
+
+*/
+
+/* SCROLLBAR */
+
+::-webkit-scrollbar-thumb {
+    background: #72608c;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #8470a0;
+}
+
+::-webkit-scrollbar-track {
+    background: #9582b2;
+}
+
+/* CUSTOM */
+
+p2 {
+font-size: 14px;
+}
+
+
+/* BODY */
+
+p {
+  margin: 10px;
+}
+
+.disabled {
+  color: #909090;
+}
+
+
+/* STM */
+.stm {
+ background-color: #FFC300;
+ overflow: hidden;
+}
+
+.stm p {
+  text-decoration: none;
+  color: white;
+  width: 100%;
+  font-size: 14px;
+  padding: 14px 16px;
+  float; left;
+}
+
+.stm p:hover {
+  color: white;
+}
+
+/* BODY */
+
+body {
+  margin: 0px;
+  background-color: #F7F7F7;
+  font-family: 'Roboto', sans-serif;
+}
+
+right {
+float: right;
+}
+
+/* TOP NAVIGATION */
+
+.topn a:hover {
+  color: #fff;
+}
+
+.topn {
+  overflow: hidden;
+  background-color: #A993CA;
+}
+
+.topn a {
+  float: left;
+  color: #F5F5F5;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 14px;
+}
